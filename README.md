@@ -2,7 +2,7 @@
 
 rido-min is a PM working on Azure IoT, passionated about developer experiences. Most of my code is C# and JS
 
-> [@ridomin][/ridomin] is my alterego
+> [@ridomin](https://github.com/ridomin) is my alterego
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=rido-min&show_icons=true&theme=dark&count_private=true&hide=stars">
