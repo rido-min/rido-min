@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-rido-min is a developer working on Azure Edge, passionate about developer experiences. Most of my code is C# and JS
+rido-min is a Microsoft developer, passionate about developer experiences. Most of my code is C# and JS
 
 > [@ridomin](https://github.com/ridomin) is my alterego
 
